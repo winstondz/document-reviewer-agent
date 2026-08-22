@@ -1,0 +1,12 @@
+langchain>=0.3
+langchain-anthropic>=0.3
+langchain-community>=0.3
+langchain-huggingface>=0.3
+sentence-transformers>=5.0
+langchain-chroma>=0.2
+chromadb>=1.0
+rank_bm25>=0.2
+networkx>=3.2
+pydantic-settings>=2.0
+pytest>=8.0
+langsmith>=0.3
